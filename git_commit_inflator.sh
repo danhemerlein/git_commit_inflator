@@ -3,7 +3,7 @@ if [ $RANDOM -lt 22936 ] # max random value: 32767
 then
     fortune | cowsay > README.txt
     git commit -am "LOL"
-    git push --set-upstream origin master
+    git push
 else
     echo skipping today
 fi

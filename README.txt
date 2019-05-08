@@ -1,9 +1,8 @@
  _________________________________________ 
-/ You've been telling me to relax all the \
-| way here, and now you're telling me     |
-| just to be myself?                      |
+/ Never have so many understood so little \
+| about so much.                          |
 |                                         |
-\ -- The Return of the Secaucus Seven     /
+\ -- James Burke                          /
  ----------------------------------------- 
         \   ^__^
          \  (oo)\_______
