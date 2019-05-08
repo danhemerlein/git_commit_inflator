@@ -1,8 +1,13 @@
  ________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE     \
-| GREAT ANSWERS: #4 A: Go west, young    |
-| man, go west! Q: What do wabbits do    |
-\ when they get tiwed of wunning awound? /
+/ You mentioned your name as if I should \
+| recognize it, but beyond the obvious   |
+| facts that you are a bachelor, a       |
+| solicitor, a freemason, and an         |
+| asthmatic, I know nothing whatever     |
+| about you.                             |
+|                                        |
+| -- Sherlock Holmes, "The Norwood       |
+\ Builder"                               /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
