@@ -1,9 +1,9 @@
  _________________________________________ 
-/ I always pass on good advice. It is the \
-| only thing to do with it. It is never   |
-| any good to oneself.                    |
+/ You've been telling me to relax all the \
+| way here, and now you're telling me     |
+| just to be myself?                      |
 |                                         |
-\ -- Oscar Wilde, "An Ideal Husband"      /
+\ -- The Return of the Secaucus Seven     /
  ----------------------------------------- 
         \   ^__^
          \  (oo)\_______
